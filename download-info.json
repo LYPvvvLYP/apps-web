@@ -1,0 +1,18 @@
+{
+  "backhub": {
+    "windows": "backhub/BackHub_1.0.14_x64-setup.exe",
+    "macos": "backhub/BackHub_1.1.1_aarch64.dmg"
+  },
+  "behaviorlog": {
+    "windows": "behaviorlog/BehaviorLog_1.0.14_x64-setup.exe",
+    "macos": "behaviorlog/BehaviorLog_1.1.1_aarch64.dmg"
+  },
+  "disknav": {
+    "windows": "disknav/DiskNav_1.0.14_x64-setup.exe",
+    "macos": "disknav/DiskNav_1.1.1_aarch64.dmg"
+  },
+  "moneyhamster": {
+    "windows": "moneyhamster/MoneyHamster_1.0.14_x64-setup.exe",
+    "macos": "moneyhamster/MoneyHamster_1.1.1_aarch64.dmg"
+  }
+}
